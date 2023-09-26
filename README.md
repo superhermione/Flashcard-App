@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='file:///C:/Users/super/Downloads/Recording%202023-09-26%20at%2000.22.23.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./assets/walkthrough.jpg' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with gifcap
 
