@@ -33,37 +33,3 @@ Here's a walkthrough of implemented user stories:
 <img src='./assets/walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with gifcap
-
-
-## Notes
-
-Describe any challenges encountered while building the app.
-
-
-# Web Development Project 2 - *Language Learning Aid* Part I
-
-Submitted by: **Xinrui Hou**
-
-This web app: **This application is designed for new language learners to practice words on a daily basis. It has visuals and translation. The pronunciation feature will be added soon.**
-
-Time spent: **3** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [x] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
-- [x] **A single card at a time is displayed, only showing one of the components of the information pair**
-- [x] **A list of card pairs is created**
-- [x] **Clicking on the card shows the corresponding component of the information pair**
-- [x] **Clicking the next button displays a random new card**
-
-The following **optional** features are implemented:
-
-- [x] Cards contains images in addition to or in place of text
-- [x] Cards have different visual styles such as color based on their category
-  - [x] *visual style implemented*
-
-The following **additional** features are implemented:
-
-* [ ] Working on adding pronunciation to the card as well as fully flip the card. Not fully implemented. 

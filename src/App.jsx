@@ -89,7 +89,8 @@ const App = () => {
             <h4>Number of card: {flashCards.length}
                 <button type='shuffle' onClick={handleShuffleCards}>Shuffle Cards</button>
             </h4>
-            
+
+            // handlePreviousCard to go to previous card
             <div className='card-container' onClick={handleCardClick} style={{ backgroundColor: currentFlashCard.color }}>
                 <div className={'flashcard' }>
                     <div className='card-text'>
