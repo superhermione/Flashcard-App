@@ -30,6 +30,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='./assets/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+<img src='./.Flashcard-App/assets/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
 GIF created with gifcap
